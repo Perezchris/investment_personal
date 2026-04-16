@@ -1,0 +1,13 @@
+# Ignore the data cache
+*.pkl
+
+# Ignore plots/images
+*.png
+
+# Ignore PyCharm settings
+.idea/
+*.pkl
+*.png
+.idea/
+__pycache__/
+.venv/

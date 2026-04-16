@@ -19,7 +19,7 @@ lazy_portfolios = {
     "Coffeehouse": {"VTI": 0.10, "VTV": 0.10, "VBR": 0.10, "VXUS": 0.10, "VXF": 0.10, "VNQ": 0.10, "BND": 0.40},
     "Margaritaville": {"VTI": 0.333, "VXUS": 0.333, "VTIP": 0.334},
     "No-Brainer": {"VTI": 0.25, "VEU": 0.25, "VB": 0.25, "BND": 0.25},
-    "Second Grader": {"VTI": 0.60, "VXUS": 0.30, "BND": 0.10},
+#    "Second Grader": {"VTI": 0.60, "VXUS": 0.30, "BND": 0.10},
     "Swensen (Yale)": {"VTI": 0.30, "VEA": 0.15, "VWO": 0.05, "VNQ": 0.20, "TIP": 0.15, "BND": 0.15},
     "Ideal Index": {"VTI": 0.0625, "VTV": 0.0937, "VB": 0.0625, "VBR": 0.0938, "VEA": 0.15, "VWO": 0.05, "VNQ": 0.08,
                     "BND": 0.4075},
